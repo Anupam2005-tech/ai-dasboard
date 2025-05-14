@@ -1,0 +1,1 @@
+Tech used:- Reactjs+ Tailwind 
